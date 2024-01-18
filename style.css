@@ -5,3 +5,51 @@
 h1 {
 	text-align: center;
 }
+
+.text-left{
+	text-align: left;
+}
+
+.text-right{
+	text-align: right;
+}
+
+#enlace{
+	display: inline;
+	background-color: tomato;
+}
+
+.d-block{
+	display: block;
+}
+
+.d-inline{
+	display: inline;
+}
+
+.btn{
+	background-color: transparent;
+	border: none;
+	cursor: pointer;
+	padding: 2px 4px;
+}
+
+.btn-verde{
+	background-color: green;
+}
+
+.btn-celeste{
+	background-color: lightblue;
+}
+/* Selectores */
+/*
+	Nombre de etiqueta
+	h1,span,div,table,tr,th..etc
+
+	Clases
+	.nombre-clase
+
+	Otro tipo de selector
+	id,
+ */
+ 
