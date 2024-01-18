@@ -6,6 +6,26 @@ h1 {
 	text-align: center;
 }
 
+.container {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.card {
+	background-color: rgb(236, 236, 236);
+	border-radius: 6px;
+}
+
+.card-title {
+	margin: 0;
+}
+
+.card-content {
+	padding: 10px;
+	display: flex;
+	flex-direction: column;
+}
+
 .text-left{
 	text-align: left;
 }
@@ -31,7 +51,8 @@ h1 {
 	background-color: transparent;
 	border: none;
 	cursor: pointer;
-	padding: 2px 4px;
+	padding: 4px 8px;
+	border-radius: 6px;
 }
 
 .btn-verde{
