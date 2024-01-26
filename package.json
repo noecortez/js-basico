@@ -1,0 +1,12 @@
+{
+  "name": "js-basico",
+  "version": "1.0.0",
+  "description": "El proyecto consiste en conocer y aprender las bases de Javascript para iniciar en el mundo del Front-End.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
