@@ -34,7 +34,7 @@ async function fetchDataAndRender() {
         const app = document.getElementById('app');
         characters.forEach(character => app.appendChild(character));
     } catch (error) {
-        // Handle error
+        // manejador error
     }
 }
 
